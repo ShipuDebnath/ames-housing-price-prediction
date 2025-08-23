@@ -15,7 +15,7 @@ This project analyzes house prices in Ames, Iowa, focusing on the relationship b
 ## Usage
 1. Clone the repository: `git clone https://github.com/ShipuDebnath/ames-housing-price-prediction.git
 2. Open R and set the working directory to the repo folder.
-3. Run the script: `source("scripts/ames_housing.R")`
+3. Run the script: `source("ames-housing-price-prediction.r")`
 4. Outputs:
    - Model summaries in `results/model_summaries.txt`
    - Processed data in `data/ames_processed.csv`
